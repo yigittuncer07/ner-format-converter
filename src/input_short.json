@@ -1,0 +1,49 @@
+{
+    "kararlar":
+    [
+        {
+            "_onem_duzeyi_gerekcesi": "158c79ee-d2c7-474c-955b-a58b37c4f928",
+            "_karar": "Davanın kısmen Cem kabulünen 2022/1584 Talip Karar sayılı BOZMA kararı Ovgu Kerem Ali",
+            "_geldigi_mah_karar_tarihi": "2022-06-22T02:35:56",
+            "_onem_duzeyi": "4",
+            "_konu":
+            [
+                "Aylık Bağlanması"
+            ],
+            "_kavram":
+            [
+                "Ölüm Aylığı",
+                "Hak Sahipliği"
+            ],
+            "_etiketler":
+            [
+                {
+                    "tokens":
+                    [
+                        "Cem",
+                        "Talip",
+                        "Ovgu",
+                        "Kerem",
+                        "Ali"
+                    ],
+                    "ner_tags":
+                    [
+                        "ERKEK",
+                        "ERKEK",
+                        "KADIN",
+                        "ERKEK",
+                        "ERKEK"
+                    ]
+                }
+            ],
+            "_emsal_mi": true,
+            "_ozet": "Ölüm sigortasından aylık bağlama koşulları değerlendirilirken hak sahipliği sıfatının kazanıldığı tarihteki mevzuat hükümleri ile düzenlenen şartların dikkate alınması gerekir. Hakkın doğması ise hak sahipliği sıfatına yönelik tüm şartların sağlanması olarak anlaşılmalıdır. Kız çocuğunun babasından dolayı ölüm aylığı alması açısından hakkı doğuran olay eşin vefatıdır. Bu nedenle eşinin ölüm tarihinde yürürlükte olan mevzuat hükümlerine göre davacıya hem eşinden hem de babasından dolayı ayrı ayrı ölüm aylığı bağlanmasının mümkün olup olmadığı değerlendirilmelidir.",
+            "id": "1cae8b9e-7cab-419f-b188-b0eb42506b8a",
+            "_anahtar_kelimeler":
+            [],
+            "_karar_detayı":
+            {},
+            "_ilgili_karar": ""
+        }
+    ]
+}
